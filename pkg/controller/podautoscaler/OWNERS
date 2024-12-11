@@ -3,12 +3,15 @@
 reviewers:
   - gjtempleton
   - mwielgus
+  - raywainman
 approvers:
-  - mwielgus
+  - raywainman
+  - gjtempleton
 emeritus_approvers:
   - jszczepkowski
   - piosz
   - MaciekPytel
   - josephburnett
+  - mwielgus
 labels:
   - sig/autoscaling
